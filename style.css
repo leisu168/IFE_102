@@ -2,6 +2,8 @@ body{
 	background-color: #cccccc;
 	font-family: "宋体";
 	font-size: 18px;
+	padding: 0;
+	margin: 0;
 }
 
 header{
@@ -36,7 +38,7 @@ ul li a.selected{
 	color: #e7dbd9;
 }
 article{
-	margin: 15px 0px;
+	margin: 15px 15px;
 	padding: 10px 10px;
 	background-color: #fff;
 }
@@ -89,7 +91,7 @@ table th{
 }
 
 aside{
-	margin: 15px 0px;
+	margin: 15px 15px;
 	padding: 10px 10px;
 	background-color: #fff;
 }
@@ -137,7 +139,8 @@ footer{
 	color: #fff;
 	text-align: center;
 	height: 50px;
-	margin: 10px;
+	margin: 15px;
 	padding: 10px;
 	border-radius: 10px;
 }
+
